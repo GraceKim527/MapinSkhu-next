@@ -1,0 +1,56 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "최정태",
+            "course_name": "대학생활세미나(사회융합4반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00123",
+            "professor": "전성원",
+            "course_name": "책의사회사",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00184",
+            "professor": "*최영묵송하원",
+            "course_name": "더불어숲인문학(신영복함께읽기)",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00181",
+            "professor": "김기명",
+            "course_name": "오늘의인문학",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

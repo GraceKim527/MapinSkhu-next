@@ -1,0 +1,34 @@
+{
+    "course_list": [
+        {
+            "id": "FH00008",
+            "professor": "김양희",
+            "course_name": "빅데이터를활용한마케팅분석",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FH00003",
+            "professor": "김양희",
+            "course_name": "기업과경영의이해",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

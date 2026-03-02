@@ -1,0 +1,146 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "윤장열",
+            "course_name": "대학생활세미나(미디어융합1반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00168",
+            "professor": "*조경희,김미란",
+            "course_name": "한중일문화이슈읽기",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AH00034",
+            "professor": "최우진",
+            "course_name": "소셜벤처기업가정신",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00002",
+            "professor": "김성찬",
+            "course_name": "영어독서지도",
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00010",
+            "professor": "박미정",
+            "course_name": "영미문학개론",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00012",
+            "professor": "박미정",
+            "course_name": "영국문화와사회",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00014",
+            "professor": "김혜인",
+            "course_name": "영어다독I",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00015",
+            "professor": "김혜인",
+            "course_name": "영어로읽는한국1",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00017",
+            "professor": "김성찬",
+            "course_name": "영어학개론",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00018",
+            "professor": "김성찬",
+            "course_name": "영어교수법및학습법1",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00021",
+            "professor": "진영종",
+            "course_name": "환타지와문학",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00028",
+            "professor": "최나리",
+            "course_name": "일본관광서비스캡스톤디자인",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

@@ -1,0 +1,159 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "이해청",
+            "course_name": "대학생활세미나(자유전공4반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AE00038",
+            "professor": "김진업",
+            "course_name": "정치경제학",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00154",
+            "professor": "김시형",
+            "course_name": "철학이란무엇인가?",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00020",
+            "professor": "차보람박은홍",
+            "course_name": "신학과정치학의만남",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00001",
+            "professor": "박은홍",
+            "course_name": "정치학개론",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00007",
+            "professor": "김창진",
+            "course_name": "국가론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00013",
+            "professor": "윤석준",
+            "course_name": "공공외교론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00020",
+            "professor": "박은홍차보람",
+            "course_name": "신학과정치학의만남",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00025",
+            "professor": "박은홍",
+            "course_name": "비교정치학으로본한국정치사의쟁점",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00026",
+            "professor": "윤석준",
+            "course_name": "국제정치론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00030",
+            "professor": "미지정",
+            "course_name": "정당과선거",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00031",
+            "professor": "미지정",
+            "course_name": "의회와정부",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00032",
+            "professor": "미지정",
+            "course_name": "여론과공론",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

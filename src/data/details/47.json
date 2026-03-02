@@ -1,0 +1,56 @@
+{
+    "course_list": [
+        {
+            "id": "HE00025",
+            "professor": "권용현",
+            "course_name": "영어다의어I:알맹이와껍데기",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00020",
+            "professor": "조병은",
+            "course_name": "현대문명과문학",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00025",
+            "professor": "권용현",
+            "course_name": "영어다의어1:알맹이와껍데기",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00023",
+            "professor": "서진환",
+            "course_name": "사회복지현장실습",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "SAT"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

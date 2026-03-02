@@ -1,0 +1,23 @@
+{
+    "course_list": [
+        {
+            "id": "DP00011",
+            "professor": "장찬호",
+            "course_name": "스크린연기기초",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

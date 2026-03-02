@@ -1,0 +1,144 @@
+{
+    "course_list": [
+        {
+            "id": "AK00179",
+            "professor": "곽승우",
+            "course_name": "디지털리터러시",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00049",
+            "professor": "심용환",
+            "course_name": "한민족의역사(조선왕조실록과역사이야기)",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00114",
+            "professor": "이해청",
+            "course_name": "비아메디아채플:그리스도교와인간",
+            "start_time": "15:00",
+            "end_time": "15:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00114",
+            "professor": "이해청",
+            "course_name": "비아메디아채플:그리스도교와인간",
+            "start_time": "16:00",
+            "end_time": "16:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00114",
+            "professor": "이해청",
+            "course_name": "비아메디아채플:그리스도교와인간",
+            "start_time": "17:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BD00012",
+            "professor": "이종승",
+            "course_name": "세계의신화와판타지",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00027",
+            "professor": "송하원",
+            "course_name": "커뮤니케이션고전읽기",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00030",
+            "professor": "윤목",
+            "course_name": "카피라이팅",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00034",
+            "professor": "양재영",
+            "course_name": "축제와이벤트",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00066",
+            "professor": "김인혜",
+            "course_name": "광고심리와소비자행동",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00070",
+            "professor": "최원준",
+            "course_name": "팬덤문화온라인마케팅",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00032",
+            "professor": "이진순",
+            "course_name": "소셜미디어이론과활용",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

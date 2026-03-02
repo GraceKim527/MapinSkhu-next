@@ -1,0 +1,35 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김선형",
+            "course_name": "대학생활세미나(소프트웨어융합1반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00005",
+            "professor": "이상욱",
+            "course_name": "데이터분석입문",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

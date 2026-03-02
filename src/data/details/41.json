@@ -1,0 +1,103 @@
+{
+    "course_list": [
+        {
+            "id": "AK00038",
+            "professor": "김현우",
+            "course_name": "인류생존프로젝트",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00185",
+            "professor": "이주엽",
+            "course_name": "20대의심리",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00032",
+            "professor": "홍혜영",
+            "course_name": "뉴미디어시대의미술",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00135",
+            "professor": "차피득",
+            "course_name": "음악으로떠나는시간여행:서양음악사탐험",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AH00054",
+            "professor": "류선미",
+            "course_name": "특허와창의적사고",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BH00001",
+            "professor": "윤영도",
+            "course_name": "문화코드로본현대중국",
+            "start_time": "12:00",
+            "end_time": "13:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00019",
+            "professor": "김혜인",
+            "course_name": "영작문I",
+            "start_time": "12:00",
+            "end_time": "13:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00022",
+            "professor": "김혜인",
+            "course_name": "Speech&Presentations",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

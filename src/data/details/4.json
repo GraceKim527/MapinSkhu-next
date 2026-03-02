@@ -1,0 +1,168 @@
+{
+    "course_list": [
+        {
+            "id": "AC00007",
+            "professor": "오영숙",
+            "course_name": "인권과평화(주제:글로벌스크린으로보는인권)",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00079",
+            "professor": "임정아",
+            "course_name": "대학생사회공헌프로젝트1",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BD00003",
+            "professor": "미지정",
+            "course_name": "커뮤니케이션의이해",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HE00016",
+            "professor": "김성찬",
+            "course_name": "영어문장이해I",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00022",
+            "professor": "이준형",
+            "course_name": "언론의역사",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00023",
+            "professor": "김서중",
+            "course_name": "저널리즘",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00036",
+            "professor": "유은아",
+            "course_name": "IT시대의광고읽기",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00037",
+            "professor": "김아영",
+            "course_name": "영화론",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00052",
+            "professor": "김수연",
+            "course_name": "데이터저널리즘",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00053",
+            "professor": "김창남",
+            "course_name": "대중문화론",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00054",
+            "professor": "정윤수",
+            "course_name": "문화기획의이론과실천",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00056",
+            "professor": "방희경",
+            "course_name": "한국대중문화사(HistoryofKoreanPopularCulture)",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00057",
+            "professor": "방희경",
+            "course_name": "현대한국영화(ContemporaryKoreanCinema)",
+            "start_time": "12:00",
+            "end_time": "13:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00063",
+            "professor": "전계수",
+            "course_name": "시나리오101",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

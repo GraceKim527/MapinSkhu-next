@@ -1,0 +1,67 @@
+{
+    "course_list": [
+        {
+            "id": "AE00014",
+            "professor": "하종강",
+            "course_name": "한국사회와노동문제",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AE00017",
+            "professor": "이슬기",
+            "course_name": "여성평화생명",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00084",
+            "professor": "김성찬",
+            "course_name": "기초영문법I",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AE00016",
+            "professor": "엄순천",
+            "course_name": "영상과문화로보는러시아",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00169",
+            "professor": "박은홍",
+            "course_name": "동남아시아역사기행",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

@@ -1,0 +1,11 @@
+{
+    "classroom_list": [
+        {
+            "id": "42",
+            "floor": 1,
+            "classroom_number": "7107",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7107_imagewait_odwcJ0C.png"
+        }
+    ]
+}

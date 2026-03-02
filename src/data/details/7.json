@@ -1,0 +1,144 @@
+{
+    "course_list": [
+        {
+            "id": "AC00013",
+            "professor": "문장원",
+            "course_name": "말과글",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00013",
+            "professor": "문장원",
+            "course_name": "말과글",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00013",
+            "professor": "박주혜",
+            "course_name": "말과글",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00162",
+            "professor": "강진희",
+            "course_name": "사례로배우는사회연대경제",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00046",
+            "professor": "최혜윤",
+            "course_name": "인간발달과심리",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00166",
+            "professor": "김현준",
+            "course_name": "종교와정치",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00172",
+            "professor": "고병헌",
+            "course_name": "더불어숲인문학(삶을위한인문공부)",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AE00073",
+            "professor": "김활신",
+            "course_name": "팀창업입문",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AG00001",
+            "professor": "임정아",
+            "course_name": "평생교육방법론",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AG00002",
+            "professor": "신재민",
+            "course_name": "평생교육개론",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AG00006",
+            "professor": "정혜령",
+            "course_name": "지역사회교육론",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AG00026",
+            "professor": "고병헌",
+            "course_name": "시민교육론",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

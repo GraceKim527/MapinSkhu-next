@@ -1,0 +1,71 @@
+{
+    "course_list": [
+        {
+            "id": "BF00002",
+            "professor": "홍성준",
+            "course_name": "Python프로그래밍",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00007",
+            "professor": "이상윤",
+            "course_name": "인공지능문제해결",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00008",
+            "professor": "곽승우",
+            "course_name": "심층신경망",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "XE00015",
+            "professor": "곽승우",
+            "course_name": "컴퓨터비전",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "XE00014",
+            "professor": "이상윤",
+            "course_name": "인공지능캡스톤디자인",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

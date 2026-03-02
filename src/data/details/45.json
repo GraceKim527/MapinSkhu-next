@@ -1,0 +1,23 @@
+{
+    "course_list": [
+        {
+            "id": "AD00179",
+            "professor": "하지원",
+            "course_name": "실용음악의이해와감상I(뮤지컬)",
+            "start_time": "15:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

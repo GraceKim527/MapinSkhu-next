@@ -1,0 +1,112 @@
+{
+    "course_list": [
+        {
+            "id": "AC00007",
+            "professor": "강성현",
+            "course_name": "인권과평화(주제:전쟁과평화)",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00031",
+            "professor": "이재문",
+            "course_name": "데이터로읽는미래사회",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00037",
+            "professor": "박정연",
+            "course_name": "에너지와미래",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00003",
+            "professor": "요코야마나호코",
+            "course_name": "기초일본어",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BS00002",
+            "professor": "박경태",
+            "course_name": "헷갈리는사회문제깊이들여다보기",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00005",
+            "professor": "윤길순",
+            "course_name": "기업과사회",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00012",
+            "professor": "김성호",
+            "course_name": "회계학원론",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00013",
+            "professor": "정선영",
+            "course_name": "조직행동",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00017",
+            "professor": "이유빈",
+            "course_name": "디지털마케팅",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

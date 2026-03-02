@@ -1,0 +1,56 @@
+{
+    "course_list": [
+        {
+            "id": "BH00015",
+            "professor": "이주엽",
+            "course_name": "수도원기행",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HR00011",
+            "professor": "차보람",
+            "course_name": "그리스도교의역사와사상:고대와중세의신학",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HR00023",
+            "professor": "신익상",
+            "course_name": "인문학과신학",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HR00024",
+            "professor": "이해청",
+            "course_name": "종교문화의눈으로세계읽기",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

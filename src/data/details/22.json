@@ -1,0 +1,101 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "황준서",
+            "course_name": "대학생활세미나(사회융합1반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AF00056",
+            "professor": "김병수",
+            "course_name": "기후위기와지속가능한농업",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00182",
+            "professor": "김기명",
+            "course_name": "즐거운철학",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SP00022",
+            "professor": "윤석준",
+            "course_name": "개발협력의정치경제",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DP00002",
+            "professor": "이호준",
+            "course_name": "사진원리와테크닉",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DP00013",
+            "professor": "최진봉",
+            "course_name": "영상미디어스피치",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DP00014",
+            "professor": "최진봉",
+            "course_name": "영상미디어정치경제학",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DP00015",
+            "professor": "최진봉",
+            "course_name": "영상매체시대의PR",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

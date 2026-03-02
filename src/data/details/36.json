@@ -1,0 +1,124 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김기명",
+            "course_name": "대학생활세미나(자유전공5반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00007",
+            "professor": "윤명호",
+            "course_name": "생활속수학",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00043",
+            "professor": "김필구",
+            "course_name": "시나리오로읽는미래사회",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00177",
+            "professor": "오현화",
+            "course_name": "고전문학톺아읽기",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00017",
+            "professor": "강연배유재명",
+            "course_name": "사회학연습",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00033",
+            "professor": "이태정",
+            "course_name": "도시사회학",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00042",
+            "professor": "김현준",
+            "course_name": "정보기술사회학",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00067",
+            "professor": "미지정",
+            "course_name": "미디어효과론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00009",
+            "professor": "백지현",
+            "course_name": "확률과랜덤변수",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00004",
+            "professor": "곽승우",
+            "course_name": "데이터기초수학",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

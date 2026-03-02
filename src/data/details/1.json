@@ -1,0 +1,161 @@
+{
+    "course_list": [
+        {
+            "id": "AC00007",
+            "professor": "조경희",
+            "course_name": "인권과평화(주제:인권의관점에서본식민주의/인종주의)",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00016",
+            "professor": "김명진",
+            "course_name": "과학기술과에콜로지",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00016",
+            "professor": "김명진",
+            "course_name": "과학기술과에콜로지",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AF00055",
+            "professor": "김강배",
+            "course_name": "빅뱅에서인간까지",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00052",
+            "professor": "김병수",
+            "course_name": "바이오기술의이해",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00025",
+            "professor": "박선화",
+            "course_name": "현대사회와법1",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00047",
+            "professor": "염준규",
+            "course_name": "현대사회와스트레스",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BS00003",
+            "professor": "유철규",
+            "course_name": "뭐니뭐니해도문제는경제학",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BS00004",
+            "professor": "김창진",
+            "course_name": "영상으로보는정치의세계",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BS00010",
+            "professor": "남일성",
+            "course_name": "인간행동과사회환경",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BM00004",
+            "professor": "김용미",
+            "course_name": "경영분석의기초",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00011",
+            "professor": "최정태",
+            "course_name": "학교사회복지",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00029",
+            "professor": "최정태",
+            "course_name": "지역사회복지론",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

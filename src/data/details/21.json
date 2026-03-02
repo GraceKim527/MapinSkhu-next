@@ -1,0 +1,139 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김용미",
+            "course_name": "대학생활세미나(경영2반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00004",
+            "professor": "박상희",
+            "course_name": "사회학개론",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00012",
+            "professor": "정연보",
+            "course_name": "계급젠더에스니시티",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00016",
+            "professor": "강성현",
+            "course_name": "한국사회의구조와변동",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00035",
+            "professor": "미지정",
+            "course_name": "사회조사방법론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00036",
+            "professor": "박상희",
+            "course_name": "인권의사회학",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00038",
+            "professor": "미지정",
+            "course_name": "사회진출세미나",
+            "start_time": "10:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00041",
+            "professor": "미지정",
+            "course_name": "사회학세미나",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SG00043",
+            "professor": "강성현",
+            "course_name": "정치사회학",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SF00015",
+            "professor": "이상철",
+            "course_name": "경제학세미나Ⅱ",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00032",
+            "professor": "김용미",
+            "course_name": "재무회계",
+            "start_time": "12:00",
+            "end_time": "13:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

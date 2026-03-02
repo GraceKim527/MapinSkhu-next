@@ -1,0 +1,34 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김수림",
+            "course_name": "대학생활세미나(미래융합1반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AG00003",
+            "professor": "임정아",
+            "course_name": "평생교육실습",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

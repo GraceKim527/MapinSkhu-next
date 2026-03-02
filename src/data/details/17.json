@@ -1,0 +1,147 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김혜인",
+            "course_name": "대학생활세미나(인문융합1반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00009",
+            "professor": "김아름",
+            "course_name": "일본학세미나",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00011",
+            "professor": "박은희",
+            "course_name": "일본문학사",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00015",
+            "professor": "요코야마나호코",
+            "course_name": "비즈니스일본어",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00016",
+            "professor": "요코야마나호코",
+            "course_name": "일본어한자",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00017",
+            "professor": "김아름",
+            "course_name": "일본원서강독1",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00018",
+            "professor": "양기호",
+            "course_name": "일본의시사쟁점",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00019",
+            "professor": "김남은",
+            "course_name": "일본문화론",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00021",
+            "professor": "박미숙",
+            "course_name": "한일문화콘텐츠통번역1",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00023",
+            "professor": "요코야마나호코",
+            "course_name": "스토리텔링일본어",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00026",
+            "professor": "미지정",
+            "course_name": "일본중근세사",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "HJ00027",
+            "professor": "김아름",
+            "course_name": "일본원서강독Ⅳ",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

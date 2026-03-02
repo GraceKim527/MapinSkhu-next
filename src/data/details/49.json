@@ -1,0 +1,126 @@
+{
+    "course_list": [
+        {
+            "id": "BI00001",
+            "professor": "이하규",
+            "course_name": "C프로그래밍",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BI00001",
+            "professor": "이하규",
+            "course_name": "C프로그래밍",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "XC00018",
+            "professor": "이종현",
+            "course_name": "보안시스템",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "XC00035",
+            "professor": "이종현",
+            "course_name": "생활속의보안",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00002",
+            "professor": "이하규",
+            "course_name": "Java프로그래밍",
+            "start_time": "16:30",
+            "end_time": "17:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00006",
+            "professor": "박정식",
+            "course_name": "데이터통신",
+            "start_time": "12:00",
+            "end_time": "13:15",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00010",
+            "professor": "이하규",
+            "course_name": "전공지도",
+            "start_time": "18:25",
+            "end_time": "19:15",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00022",
+            "professor": "박정식",
+            "course_name": "네트워크프로그래밍",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00024",
+            "professor": "박정식",
+            "course_name": "리눅스시스템",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00025",
+            "professor": "이종현",
+            "course_name": "모바일프로그래밍",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

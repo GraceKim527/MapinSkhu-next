@@ -1,0 +1,53 @@
+{
+    "classroom_list": [
+        {
+            "id": "1",
+            "floor": 2,
+            "classroom_number": "7207",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7207_7207_OzCw56V.jpg"
+        },
+        {
+            "id": "2",
+            "floor": 2,
+            "classroom_number": "7208",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7208_7208_WKJtZ3H.jpg"
+        },
+        {
+            "id": "19",
+            "floor": 2,
+            "classroom_number": "7202",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7202_7202_3gLGayc.jpg"
+        },
+        {
+            "id": "21",
+            "floor": 2,
+            "classroom_number": "7206",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7206_7206_30ryfGJ.jpg"
+        },
+        {
+            "id": "35",
+            "floor": 2,
+            "classroom_number": "7204",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7204_7204_xtMeZJV.jpg"
+        },
+        {
+            "id": "43",
+            "floor": 2,
+            "classroom_number": "7205",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7205_7205_aYgv2Fu.jpg"
+        },
+        {
+            "id": "48",
+            "floor": 2,
+            "classroom_number": "7201",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/7201_imagewait_41fSBhb.png"
+        }
+    ]
+}

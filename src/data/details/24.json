@@ -1,0 +1,34 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김태경",
+            "course_name": "대학생활세미나(사회융합3반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00049",
+            "professor": "이원정",
+            "course_name": "캡스톤디자인-콘텐츠제작프로젝트1",
+            "start_time": "15:00",
+            "end_time": "18:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

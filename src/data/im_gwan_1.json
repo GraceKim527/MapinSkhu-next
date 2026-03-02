@@ -1,0 +1,11 @@
+{
+    "classroom_list": [
+        {
+            "id": "38",
+            "floor": 1,
+            "classroom_number": "B105",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/B105_B105_cqK8Kjt.jpg"
+        }
+    ]
+}

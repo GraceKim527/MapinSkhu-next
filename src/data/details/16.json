@@ -1,0 +1,100 @@
+{
+    "course_list": [
+        {
+            "id": "AK00179",
+            "professor": "공준욱",
+            "course_name": "디지털리터러시",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00003",
+            "professor": "손다진",
+            "course_name": "사회봉사Ⅰ",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00003",
+            "professor": "손다진",
+            "course_name": "사회봉사Ⅰ",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00090",
+            "professor": "전현택",
+            "course_name": "콘텐츠세계로미래로",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00119",
+            "professor": "전현택",
+            "course_name": "콘텐츠기업성공전략",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00045",
+            "professor": "최태규",
+            "course_name": "동물복지:인간과동물",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00093",
+            "professor": "김한나",
+            "course_name": "사이버세계와종교",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AE00001",
+            "professor": "권승태",
+            "course_name": "영상시대의이해",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

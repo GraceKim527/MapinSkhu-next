@@ -1,0 +1,25 @@
+{
+    "classroom_list": [
+        {
+            "id": "11",
+            "floor": 2,
+            "classroom_number": "6206",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6206_6206_ipnvoXw.png"
+        },
+        {
+            "id": "13",
+            "floor": 2,
+            "classroom_number": "6201",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6201_6201_Uojr9jQ.png"
+        },
+        {
+            "id": "50",
+            "floor": 2,
+            "classroom_number": "6202",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6202_6202_SX9DfRT.png"
+        }
+    ]
+}

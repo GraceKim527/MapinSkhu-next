@@ -1,0 +1,111 @@
+{
+    "course_list": [
+        {
+            "id": "AC00013",
+            "professor": "오현화",
+            "course_name": "말과글",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00013",
+            "professor": "오현화",
+            "course_name": "말과글",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00013",
+            "professor": "오현화",
+            "course_name": "말과글",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00013",
+            "professor": "오현화",
+            "course_name": "말과글",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00161",
+            "professor": "이원정",
+            "course_name": "대학생활세미나(미디어융합2반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00035",
+            "professor": "권범철",
+            "course_name": "공유경제란무엇인가",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00165",
+            "professor": "김추령",
+            "course_name": "낯선지구:지구시스템",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00158",
+            "professor": "오현화",
+            "course_name": "대중서사의이해",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00103",
+            "professor": "김혜인",
+            "course_name": "TopicsinFilm",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

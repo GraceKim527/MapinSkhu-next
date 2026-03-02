@@ -1,0 +1,134 @@
+{
+    "course_list": [
+        {
+            "id": "AC00007",
+            "professor": "이상윤",
+            "course_name": "인권과평화(주제:인공지능과인간의공존)",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00016",
+            "professor": "*김명철신익상",
+            "course_name": "과학기술과에콜로지",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00016",
+            "professor": "*김명철신익상",
+            "course_name": "과학기술과에콜로지",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00130",
+            "professor": "노철래",
+            "course_name": "치유명상의이론과실제",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00026",
+            "professor": "송원숙",
+            "course_name": "미디어산업과경영",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00033",
+            "professor": "백정숙",
+            "course_name": "만화와애니메이션",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00035",
+            "professor": "권정택",
+            "course_name": "연극의이해와실습",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00055",
+            "professor": "정윤수",
+            "course_name": "스포츠문화콘텐츠의이해",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00059",
+            "professor": "이정환",
+            "course_name": "대안저널리즘의이해와실천",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00064",
+            "professor": "한종택",
+            "course_name": "영상미학개론",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DJ00065",
+            "professor": "김형신",
+            "course_name": "영화영상미학",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

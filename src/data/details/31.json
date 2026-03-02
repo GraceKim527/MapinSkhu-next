@@ -1,0 +1,34 @@
+{
+    "course_list": [
+        {
+            "id": "AK00161",
+            "professor": "김덕봉",
+            "course_name": "대학생활세미나(소프트웨어융합4반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00042",
+            "professor": "최성용",
+            "course_name": "평화를쓰기",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

@@ -1,0 +1,56 @@
+{
+    "course_list": [
+        {
+            "id": "AD00164",
+            "professor": "장소정",
+            "course_name": "생활과발레",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00021",
+            "professor": "하지혜",
+            "course_name": "요가",
+            "start_time": "13:00",
+            "end_time": "13:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00021",
+            "professor": "하지혜",
+            "course_name": "요가",
+            "start_time": "14:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00021",
+            "professor": "하지혜",
+            "course_name": "요가",
+            "start_time": "15:00",
+            "end_time": "15:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

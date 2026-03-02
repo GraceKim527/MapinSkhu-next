@@ -1,0 +1,166 @@
+{
+    "course_list": [
+        {
+            "id": "DD00003",
+            "professor": "박남기",
+            "course_name": "3D캐릭터애니메이션1",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00011",
+            "professor": "호중훈",
+            "course_name": "아바타영상제작",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00012",
+            "professor": "김대우",
+            "course_name": "디지털라이팅과랜더링",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00013",
+            "professor": "양형석",
+            "course_name": "영상디자인I",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00014",
+            "professor": "미지정",
+            "course_name": "캐릭터디자인",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00033",
+            "professor": "미지정",
+            "course_name": "콘텐츠프로듀싱실무론",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00040",
+            "professor": "이원정",
+            "course_name": "3D모델링",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00043",
+            "professor": "김희수",
+            "course_name": "아이디어와엔터테인먼트콘텐츠",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00045",
+            "professor": "미지정",
+            "course_name": "뉴미디어와마케팅",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00061",
+            "professor": "이병준",
+            "course_name": "영상콘텐츠제작실무",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00063",
+            "professor": "곽미서",
+            "course_name": "디지털기초디자인",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00064",
+            "professor": "길대호",
+            "course_name": "K-POP에서AI까지글로벌뮤직디자인",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00069",
+            "professor": "이영아",
+            "course_name": "졸업작품제작",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00073",
+            "professor": "미지정",
+            "course_name": "스컬핑앤모델링",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

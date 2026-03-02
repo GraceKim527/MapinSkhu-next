@@ -1,0 +1,67 @@
+{
+    "course_list": [
+        {
+            "id": "DD00019",
+            "professor": "김대우",
+            "course_name": "3D게임제작",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00046",
+            "professor": "정은주",
+            "course_name": "디지털콘텐츠기획",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00049",
+            "professor": "이영아",
+            "course_name": "캡스톤디자인-콘텐츠제작프로젝트1",
+            "start_time": "15:00",
+            "end_time": "18:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00051",
+            "professor": "이영아",
+            "course_name": "디지털페인팅",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00072",
+            "professor": "미지정",
+            "course_name": "글로벌애니메이션비즈니스연구",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

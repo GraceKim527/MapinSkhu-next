@@ -1,0 +1,11 @@
+{
+    "classroom_list": [
+        {
+            "id": "14",
+            "floor": 2,
+            "classroom_number": "M205",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/M205_M205_9Uhhw17.jpg"
+        }
+    ]
+}

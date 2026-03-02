@@ -1,0 +1,89 @@
+{
+    "course_list": [
+        {
+            "id": "AD00027",
+            "professor": "차피득",
+            "course_name": "대학합창Ⅰ",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00113",
+            "professor": "노철래",
+            "course_name": "비아메디아채플:그리스도교와세계",
+            "start_time": "12:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00113",
+            "professor": "노철래",
+            "course_name": "비아메디아채플:그리스도교와세계",
+            "start_time": "13:00",
+            "end_time": "13:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00113",
+            "professor": "노철래",
+            "course_name": "비아메디아채플:그리스도교와세계",
+            "start_time": "14:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00114",
+            "professor": "양승우",
+            "course_name": "비아메디아채플:그리스도교와인간",
+            "start_time": "15:00",
+            "end_time": "15:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00114",
+            "professor": "양승우",
+            "course_name": "비아메디아채플:그리스도교와인간",
+            "start_time": "16:00",
+            "end_time": "16:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00114",
+            "professor": "양승우",
+            "course_name": "비아메디아채플:그리스도교와인간",
+            "start_time": "17:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

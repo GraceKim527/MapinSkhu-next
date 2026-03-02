@@ -1,0 +1,155 @@
+{
+    "course_list": [
+        {
+            "id": "AC00016",
+            "professor": "*신익상김명철",
+            "course_name": "과학기술과에콜로지",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00016",
+            "professor": "*신익상김명철",
+            "course_name": "과학기술과에콜로지",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00120",
+            "professor": "장영석",
+            "course_name": "노동과사회",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AD00010",
+            "professor": "한해정",
+            "course_name": "서양사의이해",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00113",
+            "professor": "이종민",
+            "course_name": "비아메디아채플:그리스도교와세계",
+            "start_time": "12:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00113",
+            "professor": "이종민",
+            "course_name": "비아메디아채플:그리스도교와세계",
+            "start_time": "13:00",
+            "end_time": "13:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00113",
+            "professor": "이종민",
+            "course_name": "비아메디아채플:그리스도교와세계",
+            "start_time": "14:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BH00003",
+            "professor": "박미정",
+            "course_name": "영미문학기행",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BD00002",
+            "professor": "연희승",
+            "course_name": "영상콘텐츠기획",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00002",
+            "professor": "장승권",
+            "course_name": "글로벌비지니스의이해",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00003",
+            "professor": "송재민",
+            "course_name": "경영정보시스템",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00009",
+            "professor": "이상훈",
+            "course_name": "마케팅",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00033",
+            "professor": "박상선",
+            "course_name": "AI기반의사결정론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

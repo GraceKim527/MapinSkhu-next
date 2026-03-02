@@ -1,0 +1,155 @@
+{
+    "course_list": [
+        {
+            "id": "AK00082",
+            "professor": "배성인",
+            "course_name": "다름과비판적사고",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00001",
+            "professor": "김활신",
+            "course_name": "크리에이터를위한핵심창업지식",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00004",
+            "professor": "조수미",
+            "course_name": "인적자원관리",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00007",
+            "professor": "이상윤",
+            "course_name": "경영전략",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00010",
+            "professor": "이상훈",
+            "course_name": "소비자행동및소비자트랜드분석",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00011",
+            "professor": "염준규",
+            "course_name": "셀프리더십",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00014",
+            "professor": "박상선",
+            "course_name": "운영관리",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00016",
+            "professor": "조수미",
+            "course_name": "경영영어",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00030",
+            "professor": "이상윤",
+            "course_name": "스타트업인사이트:임팩트비즈니스",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00031",
+            "professor": "이상윤",
+            "course_name": "스타트업인사이트:크라우드펀딩의이해",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00034",
+            "professor": "이상윤김수림",
+            "course_name": "빅데이터인사이트:전략경영관점",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FH00009",
+            "professor": "김수림",
+            "course_name": "중급통계",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00034",
+            "professor": "이상윤김수림",
+            "course_name": "빅데이터인사이트:전략경영관점",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

@@ -1,0 +1,78 @@
+{
+    "course_list": [
+        {
+            "id": "AK00179",
+            "professor": "윤명호",
+            "course_name": "디지털리터러시",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AF00047",
+            "professor": "연희승",
+            "course_name": "1인미디어의이해와제작",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DP00005",
+            "professor": "연희승",
+            "course_name": "영상제작실습1",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00005",
+            "professor": "정중호",
+            "course_name": "게임기획",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DD00029",
+            "professor": "이원정",
+            "course_name": "졸업지도",
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "DP00005",
+            "professor": "연희승",
+            "course_name": "영상제작실습1",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

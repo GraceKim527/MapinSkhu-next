@@ -1,0 +1,39 @@
+{
+    "classroom_list": [
+        {
+            "id": "29",
+            "floor": 4,
+            "classroom_number": "6404",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6404_6404_Vh9R8xX.png"
+        },
+        {
+            "id": "49",
+            "floor": 4,
+            "classroom_number": "6406",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6406_6406_HmqX5VI.png"
+        },
+        {
+            "id": "51",
+            "floor": 4,
+            "classroom_number": "6405",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6405_6405_lElqlPZ.png"
+        },
+        {
+            "id": "52",
+            "floor": 4,
+            "classroom_number": "6403",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6403_6403_yA75ZVS.png"
+        },
+        {
+            "id": "53",
+            "floor": 4,
+            "classroom_number": "6402",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/6402_6402_EOlWAhF.png"
+        }
+    ]
+}

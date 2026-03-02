@@ -1,0 +1,18 @@
+{
+    "classroom_list": [
+        {
+            "id": "3",
+            "floor": 4,
+            "classroom_number": "3402",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/3402_3402_UCOUVkf.jpg"
+        },
+        {
+            "id": "37",
+            "floor": 4,
+            "classroom_number": "3401",
+            "isAvaliable": true,
+            "imageUrl": "/media/images/room/3401_3401_2ru4cIK.jpg"
+        }
+    ]
+}

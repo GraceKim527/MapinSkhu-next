@@ -1,0 +1,78 @@
+{
+    "course_list": [
+        {
+            "id": "AK00167",
+            "professor": "박상선",
+            "course_name": "통계와데이터분석:AI활용",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "BF00001",
+            "professor": "김양희",
+            "course_name": "기초통계",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00013",
+            "professor": "남일성",
+            "course_name": "프로그램개발과평가",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "MM00021",
+            "professor": "송재민",
+            "course_name": "경영빅데이터프로그래밍",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FH00001",
+            "professor": "김수림",
+            "course_name": "생성형AI기반프로그래밍",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FH00010",
+            "professor": "백준하",
+            "course_name": "텍스트데이터분석",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

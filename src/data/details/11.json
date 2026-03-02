@@ -1,0 +1,182 @@
+{
+    "course_list": [
+        {
+            "id": "AK00179",
+            "professor": "이해신",
+            "course_name": "디지털리터러시",
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00161",
+            "professor": "김명철",
+            "course_name": "대학생활세미나(소프트웨어융합2반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00002",
+            "professor": "공준욱",
+            "course_name": "자료구조와알고리즘",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00003",
+            "professor": "공준욱",
+            "course_name": "데이터사이언스입문",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "XB00023",
+            "professor": "신하진",
+            "course_name": "빅데이터",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "XB00032",
+            "professor": "김명철",
+            "course_name": "졸업지도",
+            "start_time": "18:25",
+            "end_time": "19:15",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00002",
+            "professor": "미지정",
+            "course_name": "자료구조와알고리즘",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "FI00003",
+            "professor": "미지정",
+            "course_name": "데이터사이언스입문",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "TUE",
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00002",
+            "professor": "김명철",
+            "course_name": "Java프로그래밍",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00003",
+            "professor": "홍은지",
+            "course_name": "Python프로그래밍",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00004",
+            "professor": "홍은지",
+            "course_name": "데이터베이스",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00004",
+            "professor": "홍은지",
+            "course_name": "데이터베이스",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00010",
+            "professor": "홍은지",
+            "course_name": "전공지도",
+            "start_time": "18:25",
+            "end_time": "19:15",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00029",
+            "professor": "이상욱",
+            "course_name": "운영체제",
+            "start_time": "12:00",
+            "end_time": "13:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "IS00013",
+            "professor": "김학수",
+            "course_name": "컴퓨터구조",
+            "start_time": "15:00",
+            "end_time": "16:15",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}

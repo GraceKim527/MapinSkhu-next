@@ -1,0 +1,123 @@
+{
+    "course_list": [
+        {
+            "id": "AC00013",
+            "professor": "곽승숙",
+            "course_name": "말과글",
+            "start_time": "09:00",
+            "end_time": "10:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AC00013",
+            "professor": "곽승숙",
+            "course_name": "말과글",
+            "start_time": "11:00",
+            "end_time": "12:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00161",
+            "professor": "오세현",
+            "course_name": "대학생활세미나(미디어융합3반)",
+            "start_time": "13:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "FRI"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00033",
+            "professor": "김소형",
+            "course_name": "디지털트렌드",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "MON"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AE00104",
+            "professor": "신익상",
+            "course_name": "대안경제와생태사회",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "THU"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00053",
+            "professor": "김명진",
+            "course_name": "20세기환경사",
+            "start_time": "15:00",
+            "end_time": "17:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "AK00164",
+            "professor": "정윤수",
+            "course_name": "글로벌도시의역사와문화",
+            "start_time": "12:00",
+            "end_time": "14:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00009",
+            "professor": "최정태",
+            "course_name": "사회복지윤리와철학",
+            "start_time": "13:30",
+            "end_time": "14:45",
+            "dayOfWeek": [
+                "MON",
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00030",
+            "professor": "황인매",
+            "course_name": "사회복지행정론",
+            "start_time": "09:00",
+            "end_time": "11:50",
+            "dayOfWeek": [
+                "TUE"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        },
+        {
+            "id": "SW00034",
+            "professor": "양경은",
+            "course_name": "사회진출세미나",
+            "start_time": "15:00",
+            "end_time": "16:50",
+            "dayOfWeek": [
+                "WED"
+            ],
+            "degreeLevel": "UNDERGRATE"
+        }
+    ],
+    "equipment": [
+        {
+            "pc": 0,
+            "chair": 0,
+            "projector": 1
+        }
+    ],
+    "reservation_list": []
+}
