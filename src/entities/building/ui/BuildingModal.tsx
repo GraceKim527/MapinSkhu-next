@@ -55,7 +55,7 @@ export default function BuildingModal({
               href={building.link}
               target={isExternalLink ? "_blank" : undefined}
               rel={isExternalLink ? "noopener noreferrer" : undefined}
-              className="flex h-[5vh] w-[16vw] items-center justify-center rounded-[50vw] bg-(--new-sub-color) text-[1.7rem] font-bold text-(--new-main-color) no-underline shadow-[0_8px_32px_0_var(--new-main-color)] transition-transform hover:scale-105"
+              className="flex h-[5vh] w-[16vw] items-center justify-center rounded-[50vw] bg-(--new-sub-color) text-[17px] font-bold text-(--new-main-color) no-underline shadow-[0_8px_32px_0_var(--new-main-color)] transition-transform hover:scale-105"
             >
               {building.name} 바로가기
             </Link>
@@ -91,7 +91,7 @@ export default function BuildingModal({
               href={building.link}
               target={isExternalLink ? "_blank" : undefined}
               rel={isExternalLink ? "noopener noreferrer" : undefined}
-              className="mb-[20vh] flex h-[6vh] w-[60vw] items-center justify-center rounded-[50vw] bg-(--new-sub-color) text-[1.7rem] font-bold text-(--new-main-color) no-underline shadow-[0.5vw_0.5vh_0_0_var(--new-main-color)] transition-transform hover:scale-105"
+              className="mb-[20vh] flex h-[6vh] w-[60vw] items-center justify-center rounded-[50vw] bg-(--new-sub-color) text-[17px] font-bold text-(--new-main-color) no-underline shadow-[0.5vw_0.5vh_0_0_var(--new-main-color)] transition-transform hover:scale-105"
             >
               {building.name.length > 10
                 ? building.name.split("/").map((name, i) => (

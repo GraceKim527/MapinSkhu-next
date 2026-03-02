@@ -12,9 +12,7 @@ export interface Lecture {
 
 export interface Equipment {
   seats: number;
-  seatNote?: string;
   outlets: number;
-  outletNote?: string;
 }
 
 export interface RoomInfo {

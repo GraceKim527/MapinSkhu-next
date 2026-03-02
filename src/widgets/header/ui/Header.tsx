@@ -3,12 +3,15 @@
 import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { Search, X } from "lucide-react";
 import { cn } from "@/shared/lib/utils";
 import Navigation from "@/features/navigation/ui/Navigation";
 import HamburgerIcon from "@/widgets/header/ui/HamburgerIcon";
 
 export default function Header() {
+  const pathname = usePathname();
+  const isMainPage = pathname === "/";
   const [isScrolled, setIsScrolled] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -54,9 +57,12 @@ export default function Header() {
         className={cn(
           "fixed left-0 right-0 top-0 z-50 flex h-[60px] items-center transition-all duration-300",
           isScrolled
-            ? "bg-white shadow-sm md:h-[50px]"
+            ? "border-b border-[--mapin-white-900] md:h-[50px]"
             : "bg-white md:bg-transparent",
         )}
+        style={isScrolled ? {
+          background: "linear-gradient(90deg, var(--mapin-white-900) 0%, var(--mapin-white-980) 50%, var(--mapin-white-900) 100%)"
+        } : undefined}
       >
         {/* PC layout */}
         <div className="hidden w-full items-center md:flex">
@@ -79,6 +85,18 @@ export default function Header() {
               />
             </Link>
           </div>
+
+          {!isMainPage && (
+            <div className="flex items-center pr-4">
+              <button
+                onClick={toggleSearch}
+                className="flex h-[44px] w-[44px] items-center justify-center rounded-full hover:bg-black/5"
+                aria-label="검색"
+              >
+                <Search size={20} style={{ color: "var(--new-main-color)" }} />
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Mobile layout */}
@@ -106,27 +124,29 @@ export default function Header() {
             </Link>
           </div>
 
-          <div className="flex items-center pr-4">
-            {isSearchOpen ? (
-              <button
-                ref={closeButtonRef}
-                onClick={toggleSearch}
-                className="flex h-[44px] w-[44px] items-center justify-center rounded-full hover:bg-black/5"
-                aria-label="검색 닫기"
-              >
-                <X size={20} style={{ color: "var(--new-main-color)" }} />
-              </button>
-            ) : (
-              <button
-                ref={searchButtonRef}
-                onClick={toggleSearch}
-                className="flex h-[44px] w-[44px] items-center justify-center rounded-full hover:bg-black/5"
-                aria-label="검색"
-              >
-                <Search size={20} style={{ color: "var(--new-main-color)" }} />
-              </button>
-            )}
-          </div>
+          {!isMainPage && (
+            <div className="flex items-center pr-4">
+              {isSearchOpen ? (
+                <button
+                  ref={closeButtonRef}
+                  onClick={toggleSearch}
+                  className="flex h-[44px] w-[44px] items-center justify-center rounded-full hover:bg-black/5"
+                  aria-label="검색 닫기"
+                >
+                  <X size={20} style={{ color: "var(--new-main-color)" }} />
+                </button>
+              ) : (
+                <button
+                  ref={searchButtonRef}
+                  onClick={toggleSearch}
+                  className="flex h-[44px] w-[44px] items-center justify-center rounded-full hover:bg-black/5"
+                  aria-label="검색"
+                >
+                  <Search size={20} style={{ color: "var(--new-main-color)" }} />
+                </button>
+              )}
+            </div>
+          )}
         </div>
       </header>
 

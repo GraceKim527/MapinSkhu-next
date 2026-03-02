@@ -29,34 +29,33 @@ export default function RoomHero({
       </div>
 
       {/* 텍스트 오버레이 */}
-      <div className="absolute inset-x-0 bottom-0 flex flex-col items-center pb-6 text-center">
-        <p className="mb-4 text-[1.3rem] font-bold text-(--mapin-gray-900) md:text-[1.6rem]">
-          {building.name}
-        </p>
+      <div className="absolute inset-x-0 bottom-0 flex flex-col items-center pb-6 text-center gap-8">
+        <div className="flex flex-col items-center gap-2">
+          <p className="typo-heading-sm-bd text-(--mapin-gray-900)">
+            {building.name}
+          </p>
 
-        <h1 className="text-[6rem] font-extrabold leading-none text-(--mapin-gray-900) md:text-[8rem]">
-          {roomId}
-        </h1>
+          <h1 className="typo-heading-5xl text-(--mapin-gray-900)">{roomId}</h1>
 
-        {/* 현재 강의 상태 */}
-        <div className="mt-3 flex flex-col items-center gap-12">
+          {/* 현재 강의 상태 */}
           {currentLecture ? (
-            <p className="text-[1.3rem] font-medium text-(--mapin-gray-900)">
+            <p className="mt-2 typo-body-md-md-20 font-medium text-(--mapin-gray-900)">
               현재{" "}
-              <span className="rounded-[4px] border border-(--mapin-red-200) bg-(--mapin-red-100) px-[6px] py-[2px] text-[1.2rem] font-semibold text-(--mapin-red-900)">
+              <span className="rounded-[4px] border border-(--mapin-red-200) bg-(--mapin-red-100) px-[6px] py-[2px] text-xs font-semibold text-(--mapin-red-900)">
                 {currentLecture.name}
               </span>{" "}
               강의 중입니다.
             </p>
           ) : (
-            <p className="text-[1.3rem] font-medium text-(--mapin-gray-900)">
+            <p className="mt-2 typo-body-md-md-20 font-medium text-(--mapin-gray-900)">
               현재 강의가 없습니다.
             </p>
           )}
-          <p className="text-[1.1rem] text-(--mapin-gray-700)">
-            ⚠ 강의 자체 휴강은 표시되지 않습니다.
-          </p>
         </div>
+
+        <p className="text-md-md-20 text-(--mapin-gray-700)">
+          ⚠ 강의 자체 휴강은 표시되지 않습니다.
+        </p>
       </div>
     </section>
   );

@@ -95,8 +95,6 @@ export const mockRoomInfo: RoomInfo = {
   ],
   equipment: {
     seats: 31,
-    seatNote: "강사 좌석 포함",
     outlets: 15,
-    outletNote: "책상마다 3구 멀티탭",
   },
 };

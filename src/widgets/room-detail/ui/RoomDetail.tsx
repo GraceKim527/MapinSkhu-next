@@ -62,7 +62,7 @@ export default function RoomDetail({ building, roomId }: RoomDetailProps) {
       {/* Header 높이만큼 여백 */}
       <div className="h-[60px]" />
 
-      <main className="flex-1">
+      <main className="flex-1 mb-16">
         <div className="mx-auto max-w-[1200px]">
           {/* Hero 영역 */}
           <RoomHero
@@ -72,21 +72,23 @@ export default function RoomDetail({ building, roomId }: RoomDetailProps) {
           />
 
           {/* 요일 선택 + 시간표 */}
-          <section className="mt-2">
-            <DaySelector
-              selectedDay={selectedDay}
-              onDayChange={setSelectedDay}
-            />
-            <Timetable
-              lectures={roomInfo.lectures}
-              selectedDay={selectedDay}
-              onDayChange={setSelectedDay}
-              currentTime={currentTime}
-            />
-          </section>
+          <div className="flex flex-col gap-16">
+            <section className="mt-2">
+              <DaySelector
+                selectedDay={selectedDay}
+                onDayChange={setSelectedDay}
+              />
+              <Timetable
+                lectures={roomInfo.lectures}
+                selectedDay={selectedDay}
+                onDayChange={setSelectedDay}
+                currentTime={currentTime}
+              />
+            </section>
 
-          {/* 기자재 정보 */}
-          <EquipmentInfo equipment={roomInfo.equipment} />
+            {/* 기자재 정보 */}
+            <EquipmentInfo equipment={roomInfo.equipment} />
+          </div>
         </div>
       </main>
     </div>

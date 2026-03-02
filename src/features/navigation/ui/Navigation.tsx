@@ -99,7 +99,7 @@ export default function Navigation({ isMenuOpen, onClose }: NavigationProps) {
           <div className="m-auto block pb-[10%]">
             <Link
               href="/feedback"
-              className="text-[1.3rem] text-black no-underline"
+              className="text-[13px] text-black no-underline"
             >
               개발자에게 피드백하기
             </Link>
