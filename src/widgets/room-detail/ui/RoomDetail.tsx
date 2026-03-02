@@ -1,13 +1,16 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { Building } from "@/entities/building/model/types";
+import {
+  getClassroomByNumber,
+  getClassroomDetail,
+} from "@/entities/classroom/lib/data";
 import Header from "@/widgets/header/ui/Header";
 import RoomHero from "./RoomHero";
 import DaySelector from "./DaySelector";
 import Timetable from "./Timetable";
 import EquipmentInfo from "./EquipmentInfo";
-import { mockRoomInfo } from "../model/mockData";
 import { Lecture } from "../model/types";
 import { timeToMinutes, getDayIndex } from "../lib/time";
 
@@ -48,9 +51,20 @@ export default function RoomDetail({ building, roomId }: RoomDetailProps) {
     return () => clearInterval(interval);
   }, []);
 
-  const roomInfo = mockRoomInfo;
+  const classroom = useMemo(
+    () => getClassroomByNumber(building.slug, roomId),
+    [building.slug, roomId],
+  );
+  const detail = useMemo(
+    () => (classroom ? getClassroomDetail(classroom.id) : undefined),
+    [classroom],
+  );
+
+  const lectures = detail?.lectures ?? [];
+  const equipment = detail?.equipment ?? { pc: 0, chairs: 0, projector: 0 };
+
   const currentLecture = findCurrentLecture(
-    roomInfo.lectures,
+    lectures,
     selectedDay,
     currentTime,
   );
@@ -79,7 +93,7 @@ export default function RoomDetail({ building, roomId }: RoomDetailProps) {
                 onDayChange={setSelectedDay}
               />
               <Timetable
-                lectures={roomInfo.lectures}
+                lectures={lectures}
                 selectedDay={selectedDay}
                 onDayChange={setSelectedDay}
                 currentTime={currentTime}
@@ -87,7 +101,7 @@ export default function RoomDetail({ building, roomId }: RoomDetailProps) {
             </section>
 
             {/* 기자재 정보 */}
-            <EquipmentInfo equipment={roomInfo.equipment} />
+            <EquipmentInfo equipment={equipment} />
           </div>
         </div>
       </main>
