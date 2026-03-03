@@ -42,6 +42,7 @@ function findCurrentLecture(
 
 export default function RoomDetail({ building, roomId }: RoomDetailProps) {
   const todayIndex = getDayIndex(new Date());
+  const [selectedDay, setSelectedDay] = useState(todayIndex);
   const [currentTime, setCurrentTime] = useState(() => getCurrentTime());
 
   useEffect(() => {
@@ -84,8 +85,8 @@ export default function RoomDetail({ building, roomId }: RoomDetailProps) {
           {/* 요일 선택 + 시간표 */}
           <div className="flex flex-col gap-16">
             <section className="mt-2">
-              <DaySelector />
-              <Timetable lectures={lectures} currentTime={currentTime} />
+              <DaySelector selectedDay={selectedDay} onSelectDay={setSelectedDay} />
+              <Timetable lectures={lectures} currentTime={currentTime} selectedDay={selectedDay} />
             </section>
 
             {/* 기자재 정보 */}
